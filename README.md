@@ -14,7 +14,6 @@ A simple stack-based virtual machine implemented in C. This VM executes bytecode
 - **Comprehensive test suite** covering edge cases
 
 ## Build and Run
-1. Clone the repository:
    ```
    git clone https://github.com/Maanasa64/vm-project.git
    cd vm-project
